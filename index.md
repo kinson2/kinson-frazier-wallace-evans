@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Home
-landing-title: 'Kinson Page, not sure where'
+landing-title: 'Welcome to Our Family History'
 description: null
 image: null
 author: null
 show_tile: false
 ---
 
-Bunch of markdown syntax.
+This website is built to honor the memories and legacies of all descendants of King David Kinson, Rosa Frazier, Jeff Wallace, and Charity Evans.
