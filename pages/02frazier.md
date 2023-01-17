@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Frazier
-image: assets/images/pic10.jpg
+image: assets/images/rosa-frazier02.jpg
 nav-menu: true
 ---
 
