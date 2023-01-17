@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Evans
-image: assets/images/pic08.jpg
+image: assets/images/charity-evans03.jpg
 nav-menu: true
 ---
 
