@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kinson
-image: assets/images/pic01.jpg
+image: assets/images/king-kinson03.jpg
 nav-menu: true
 ---
 
