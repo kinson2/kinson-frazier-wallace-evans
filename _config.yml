@@ -1,11 +1,11 @@
 # site settings
-title: #Forty
-subtitle: #by HTML5 UP
-email: #youremailaddress@gmail.com
+title: History #Forty
+subtitle: KRFE #by HTML5 UP
+email: ckinson13@gmail.com #youremailaddress@gmail.com
 description: This website is built to honor the memories and legacies of all descendants of King David Kinson, Rosa Frazier, Jeff Wallace, and Charity Evans. #A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author: Christopher Kinson
+baseurl: #"/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+url: https://kinson-frazier-wallace-evans.us # the base hostname & protocol for your site
+author: editor - Christopher Kinson
 street_address: # 1234 Somewhere Road
 city: # Nashville
 state: # TN
