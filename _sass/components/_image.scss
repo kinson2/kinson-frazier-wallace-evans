@@ -21,7 +21,7 @@ img {
 
 		&.left,
 		&.right {
-			max-width: 100%///30%;
+			max-width: 30%;
 
 			img {
 				width: 100%;
@@ -43,7 +43,7 @@ img {
 		&.fit {
 			display: block;
 			margin: 0 0 _size(element-margin) 0;
-			width: 100%;
+			width: 50%///100%;
 
 			img {
 				width: 100%;
