@@ -5,4 +5,29 @@ image: assets/images/milton-kinson01.jpg
 nav-menu: true
 ---
 
-This is where individual family members - including in-laws and those without formal relationships - and their stories are archived. Ideally each member has a tree, pictures, audio, and their written history.
+This is where individual family members - including in-laws and those without formal relationships - and their stories are archived. Ideally each member has a tree, pictures, audio, and their written history. See the table below and click a family member's website to learn about their story.
+
+<table class="searchable sortable">
+ <thead>
+   <tr>
+     <th>Athlete</th>
+     <th>Age</th>
+     <th>Country</th>
+     <th>Gold Medals</th>
+  </tr>
+ </thead>
+ <tbody>
+   <tr>
+    <td>Michael Phelps</td>
+    <td>27</td>
+    <td>United States</td>
+    <td>4</td>
+   </tr>
+   <tr>
+    <td>Michael Phelps 2</td>
+    <td>20</td>
+    <td>United States</td>
+    <td>5</td>
+   </tr>
+  </tbody>
+</table>
