@@ -1,6 +1,6 @@
 ---
 layout: page
-title: King Kinson
+title: King Kinson II
 image: assets/images/king-kinson03.jpg
 nav-menu: false
 ---
