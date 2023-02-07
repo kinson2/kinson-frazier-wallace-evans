@@ -5,7 +5,7 @@ image: assets/images/king-kinson03.jpg
 nav-menu: false
 ---
 
-![as-toddler](https://github.com/kinson2/kinson-frazier-wallace-evans/blob/08608d338ae982174306af808650dcc2991ebc7c/assets/images/christopher-kinson03.jpg?raw=true)
+![as-toddler](https://github.com/kinson2/kinson-frazier-wallace-evans/blob/35f7b39e33598d556bbeabcf81e1f15087fe1f3a/assets/images/christopher-kinson03.JPG?raw=true)
 
 # Christopher Kinson
 
