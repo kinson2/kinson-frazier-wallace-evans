@@ -37,13 +37,13 @@ Susan|Kinson|||SC|0|
 Essie|Kinson|||SC|0|
 Everhomer|Kinson|||SC|0|
 Sam|Kinson|||SC|0|
-King|Kinson|D|I|GA|0|<https://kinson-frazier-wallace-evans.us/pages/01kinson.html/>
-Rose|Kinson|L A|Frazier|GA|0|<https://kinson-frazier-wallace-evans.us/pages/02frazier.html/>
+King|Kinson|D|I|GA|0|[https://kinson-frazier-wallace-evans.us/pages/01kinson.html](https://kinson-frazier-wallace-evans.us/pages/01kinson.html)
+Rose|Kinson|L A|Frazier|GA|0|[https://kinson-frazier-wallace-evans.us/pages/02frazier.html](https://kinson-frazier-wallace-evans.us/pages/02frazier.html)
 Missouri|Robinson||Wallace; I|GA|0|
 Joseph|Tillman|||GA|0|
 Lizzie|Tillman||Wright|GA|0|
-Jeff|Wallace||Sr|GA|0|<https://kinson-frazier-wallace-evans.us/pages/03wallace.html/>
-Charity|Wallace||Evans|GA|0|<https://kinson-frazier-wallace-evans.us/pages/04evans.html/>
+Jeff|Wallace||Sr|GA|0|[https://kinson-frazier-wallace-evans.us/pages/03wallace.html](https://kinson-frazier-wallace-evans.us/pages/03wallace.html)
+Charity|Wallace||Evans|GA|0|[https://kinson-frazier-wallace-evans.us/pages/04evans.html](https://kinson-frazier-wallace-evans.us/pages/04evans.html)
 David|White|||GA|0|
 Mary|||Evans|GA|0|
 Cassie|||Evans|GA|0|
