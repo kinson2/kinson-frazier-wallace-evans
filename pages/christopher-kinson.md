@@ -1,7 +1,8 @@
 ---
-layout: post
-title: Christopher Kinson
-image: assets/images/milton-kinson.jpg
+layout: page
+title: Kinson
+image: assets/images/king-kinson03.jpg
+nav-menu: true
 ---
 
 Christopher Kinson was born on November 3, 1988 in Albany, Dougherty County, Georgia to Ronald and Vontressia Kinson, née Miller. His childhood was an interesting one. He loved food at a young age, often telling his dreams to his parents - mostly involving food. He enjoyed playing video games and various outdoor activities with his older brother, Vyron Kinson, who was deaf. Once Chris could ride his bicycle, good friendship networks grew. Instead of only being friends with his next-door neighbor, LaTrice, he began making friends deeper into the neighborhood. Specifically, he met fraternal twins, Casey and Caleb Shy, who are still his lifelong friends. Biking is also how he discovered the beauty of the Cromartie Beach neighborhood. Just down the hill from his home stood tall waterfront homes overlooking the Flint River. Some days, he would ride on the streets bordering the water and take it all in. Later, he learned that his 3rd grade teacher, Ms. Peeples, lived in one of those homes on stilts. One of his first home daycare providers lived down the hill too, Ms. Ollie. Chris still cannot resist that red Georgia clay in her yard. 
