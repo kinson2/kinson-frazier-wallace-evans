@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Evans
-image: assets/images/charity-evans03.jpg
+image: assets/images/liza-kinson01.jpg
 nav-menu: true
 ---
 
