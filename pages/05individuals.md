@@ -56,8 +56,8 @@ Jimmy|Johnson||Sr|GA|1|
 Gustiva|Jones|||GA|1|
 Odessa|Jones||Sutton|GA|1|
 Liza|Kinson|M|Wallace|GA|1|
-Milton|Kinson|M|Sr|GA|1|
-King|Kinson|D|II|GA|1|
+Milton|Kinson|M|Sr|GA|1|[https://kinson-frazier-wallace-evans.us/pages/milton-kinson-sr.html](https://kinson-frazier-wallace-evans.us/pages/milton-kinson-sr.html)
+King|Kinson|D|II|GA|1|[https://kinson-frazier-wallace-evans.us/pages/king-kinson-ii.html](https://kinson-frazier-wallace-evans.us/pages/king-kinson-ii.html)
 Floree|Linkhorn|||GA|1|
 Missouri|Lyde||Wallace; II|GA|1|
 Willie|Lyde|||NJ|1|
@@ -133,12 +133,12 @@ Darel|Evans|||GA|3|
 Daryl|Evans|||GA|3|
 Zelda|Everson|||GA|3|
 Cristal|Howard|||GA|3|
-DeCori|Johnson|||GA|3|
+DeCori|Johnson|||GA|3|[https://kinson-frazier-wallace-evans.us/pages/decori-johnson.html](https://kinson-frazier-wallace-evans.us/pages/decori-johnson.html)
 Elizabeth|Johnson||Miller|GA|3|
 Jimmy|Johnson||III||3|
 Mikel|Jones|||GA|3|
 LaToya|Jones|||GA|3|
-Christopher|Kinson|L||GA|3|
+Christopher|Kinson|L||GA|3|[https://kinson-frazier-wallace-evans.us/pages/christopher-kinson.html](https://kinson-frazier-wallace-evans.us/pages/christopher-kinson.html)
 Vyron|Kinson|M||GA|3|
 Mario|Kinson|M||GA|3|
 Maya|Kinson|M||GA|3|
