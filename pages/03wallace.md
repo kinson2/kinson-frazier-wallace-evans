@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wallace
-image: assets/images/major-wallace01.jpg
+image: assets/images/ruby-lane01.jpg
 nav-menu: true
 ---
 
