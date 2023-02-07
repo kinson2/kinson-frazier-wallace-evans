@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kinson
+title: Christopher Kinson
 image: assets/images/king-kinson03.jpg
 nav-menu: false
 ---
