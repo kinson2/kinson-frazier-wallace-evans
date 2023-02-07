@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Kinson
 image: assets/images/king-kinson03.jpg
 nav-menu: true
