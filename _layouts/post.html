@@ -14,9 +14,7 @@
     {% include post-date.html %}
   {% endif %} -->
   {% if post.image %}
-    <div class="featured-image">
-      <img src="{{ site.github.url }}/assets/img/{{ post.image }}">
-    </div>
+    <span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>
   {% endif %}
   <article>
     {{ content }}
