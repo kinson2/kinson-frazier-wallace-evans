@@ -5,13 +5,12 @@ image: assets/images/king-kinson-ii01.jpg
 nav-menu: true
 ---
 
-![king-kinson-us-census](https://drive.google.com/file/d/1P-Pirq9Gz1IL9V7rt93CDWmisayZq5Td/preview)
+<iframe src="https://drive.google.com/file/d/1NXTJLdfwMKsJDsj165-mxdFYv-0ELieT/preview" width="640" height="480" allow="autoplay"></iframe>
 
 # King David Kinson I
 
 King David Kinson I was born circa 1872 in the town of Rowell, Marion County, South Carolina. According to US Census records, in Marion County, the black population (53%) outnumbered the white population (46%) by 1880. On December 24, 1919, King David Kinson married Rosa (or Rosey/Rosie) Frazier/Frasier in Baker County, Georgia. By 1920, he lived in Militia District 900, Baker County and worked for wages as a laborer in the turpentine industry. He and Rosa could read and write. During this time, Rosa's mother, Malinda Alfred, a Mississippi native, lived with them. By 1930, King and Rosa had two children, King David Kinson II (10 years old) and Milton (7 years old) and still lived in Baker County, but now in Militia District 971.
 
-![king-kinson-marriage-certificate](https://drive.google.com/file/d/1NXTJLdfwMKsJDsj165-mxdFYv-0ELieT/preview)
-
+<iframe src="https://drive.google.com/file/d/1NXTJLdfwMKsJDsj165-mxdFYv-0ELieT/preview" width="640" height="480" allow="autoplay"></iframe>
 
 
