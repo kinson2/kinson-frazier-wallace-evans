@@ -15,6 +15,6 @@ Charity Evans was born 1898 to Major and Lula (or Luella) Evans. By 1900, she wa
 
 By 1910, she was living with her parents and siblings including: Nelson, Mary, Lucius, Casey, Hannah, and William. At this time, Emily Butler, their former neighbor also boarded in the house. 
 
-<img src="https://uofi.box.com/shared/static/o6t0gg2tqbr43l1ktekxofkxy15bdkex.jpg" alt="1940 us census as mother of eight children" style="display: block; margin: 0 auto">
+<img src="https://uofi.box.com/shared/static/iq6od5gddwlc2vk8h9iw5bg5vpf1occi.jpg" alt="1940 us census as mother of eight children" style="display: block; margin: 0 auto">
 
 By 1940, Charity had children and worked as a housekeeper - a profession that some of her kids also had in Baker County. She died in Dougherty County in 1985 at the age of 90 years.
