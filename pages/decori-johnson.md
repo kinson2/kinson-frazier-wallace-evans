@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Decori Johnson
-image: assets/images/king-kinson03.jpg
 nav-menu: false
 ---
 
