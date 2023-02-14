@@ -6,6 +6,8 @@ nav-menu: false
 
 ![as toddler](https://uofi.box.com/shared/static/wakhze9zo1hgazfp6j7nlshx0lz02mih.jpg)
 
+# Decori Johnson
+
 Decori, aka Cori, was born March 24, 1980 in Albany, Dougherty County, GA to Joseph and Beverly Johnson, née Kinson. At the age of 7 years old, he played little league football, because it was the only way for him and his cousin Mario Kinson to get their clothes dirty without punishment. They both played little league football team on the same team, the Carver Park Razorbacks. Carver Park, formally Carver Pool and Spray Park, is now called Driskell Park and located at South McKinley Street and Holloway Avenue. It is named after longtime coach and educator Charles Driskell. At 8 years old, Cori deemed small for his age, decided to switch to basketball, which was much safer. Cori's father, Joe, built a baskeball court in the backyard to keep Cori out of trouble and develop his basketball skills. Little did Cori know that having such a basketball court would foster the development of many of his neighbors skills too. His court was a central proving ground in his neighborhood. As a result, the kids from other parts of the city eventually came to Cori's house just to play basketball. If you could ball at his place, then you could ball anywhere. As a result, Cori made lots of friends. 
 
 ![as youth football and basketball player](https://uofi.box.com/shared/static/ob87h6tj963q84ofv6afrmw1kgejy1k1.jpg)
