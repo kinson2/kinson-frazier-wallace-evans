@@ -38,7 +38,7 @@ Essie|Kinson|||SC|0|
 Everhomer|Kinson|||SC|0|
 Sam|Kinson|||SC|0|
 King|Kinson|D|I|GA|0|[https://kinson-frazier-wallace-evans.us/pages/01kinson.html](https://kinson-frazier-wallace-evans.us/pages/01kinson.html)
-Rose|Kinson|L A|Frazier|GA|0|[https://kinson-frazier-wallace-evans.us/pages/02frazier.html](https://kinson-frazier-wallace-evans.us/pages/02frazier.html)
+Rosa|Kinson|L A|Frazier|GA|0|[https://kinson-frazier-wallace-evans.us/pages/02frazier.html](https://kinson-frazier-wallace-evans.us/pages/02frazier.html)
 Missouri|Robinson||Wallace; I|GA|0|
 Joseph|Tillman|||GA|0|
 Lizzie|Tillman||Wright|GA|0|
@@ -115,7 +115,7 @@ Adis|||||2|
 Pat|||||2|
 Felicia|||||2|
 Carolyn|||Washington|GA|2|
-Elaine|||Washington|GA|2|
+Cynthia|||Washington|GA|2|
 Ruby|||Wallace|GA|2|
 Ella||M|Johnson|GA|2|
 Amy|||Johnson; II|GA|2|
@@ -129,8 +129,7 @@ Latifa|Barnett|||NJ|3|
 Taraja|Barnett|||NJ|3|
 Shonda|Carter|||GA|3|
 Kimberly|Dargen|||GA|3|
-Darel|Evans|||GA|3|
-Daryl|Evans|||GA|3|
+Daryl|Evans||Sr|NJ|3|
 Zelda|Everson|||GA|3|
 Cristal|Howard|||GA|3|
 DeCori|Johnson|||GA|3|[https://kinson-frazier-wallace-evans.us/pages/decori-johnson.html](https://kinson-frazier-wallace-evans.us/pages/decori-johnson.html)
@@ -144,7 +143,6 @@ Mario|Kinson|M||GA|3|
 Maya|Kinson|M||GA|3|
 Kimberly|Kinson|||GA|3|
 Tamara|Kinson||Clinton|GA|3|
-Malcolm|McClain|||GA|3|
 Tanya|Meacham|||GA|3|
 Michelle|Meacham|||GA|3|
 Jamil|Pearson||Johnson|GA|3|
@@ -190,11 +188,10 @@ Desmon|||Wallace||3|
 Damon|||Wallace||3|
 LaCresha||||GA|3|
 Shakira|||Washington|GA|3|
-Tianna|Bailey|||NJ|4|
 Amandla|Baraka|||NJ|4|
 Cayla|Bellamy|||MD|4|
 Christopher|Carter|||GA|4|
-Layla|Evans|||NJ|4|
+Darel|Evans|||NJ|4|
 Okeerah|Howard|||NJ|4|
 Noah|Johnson|||GA|4|
 Darius|Jones|||MD|4|
@@ -205,6 +202,8 @@ Micah|Kinson|||GA|4|
 Monroe|Kinson|||GA|4|
 Murphy|Kinson|||GA|4|
 Xena|Kinson|||GA|4|
+LeAndra|Lassiter|A||NJ|4|
+Malcolm|McClain|||GA|4|
 Jayla|Pearson|||GA|4|
 Jazmine|Pearson|||GA|4|
 Kinson|Smith|||MD|4|
@@ -215,3 +214,5 @@ Terrence|||Wallace|NJ|4|
 Christopher|||Wallace|NJ|4|
 Brian|||Wallace|NJ|4|
 Tanisha|||Wallace|NJ|4|
+Tianna|Bailey|||NJ|5|
+Layla|Evans|||NJ|5|
