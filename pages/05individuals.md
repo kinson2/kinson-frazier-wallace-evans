@@ -63,7 +63,6 @@ Missouri|Lyde||Wallace; II|GA|1|
 Willie|Lyde|||NJ|1|
 Laura|Miller|||GA|1|
 Major|Wallace|||GA|1|
-James|Wallace|||GA|1|
 Luella|Wallace|||GA|1|
 Jeff|Wallace||Jr|GA|1|
 Henry|Wallace||II|GA|1|
